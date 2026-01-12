@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yutian Yi, and I am a Year 2 PhD researcher at Department of Architecture, Xi’an Jiaotong-Liverpool University (XJTLU, https://www.xjtlu.edu.cn/en/study/departments/design-school/architecture), where I am very fortunate to be advised by Dr. [Davide Lombardi](https://scholar.xjtlu.edu.cn/en/persons/DavideLombardi/). My work sits at the intersection of digital construction, data governance, and lifecycle information management, with the goal of improving how building information is delivered, verified, and used after project completion.  
+My name is Yutian Yi, and I am a Year 2 PhD researcher at [Department of Architecture, Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/study/departments/design-school/architecture), where I am very fortunate to be advised by Dr. [Davide Lombardi](https://scholar.xjtlu.edu.cn/en/persons/DavideLombardi/). My work sits at the intersection of digital construction, data governance, and lifecycle information management, with the goal of improving how building information is delivered, verified, and used after project completion.  
 
 
 ## Education Background
