@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+      # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -13,7 +13,7 @@ title                    : "Yutian Yi"
 title_separator          : "-"
 name                     : &name "Yutian Yi 易予恬"
 description              : &description "Hi, I am a Year 2 PhD candidate from Xi'an Jiaotong-Liverpool University!"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yuitian0425.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yutian0425.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yutian0425/yutian0425.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Year 2 Ph.D candudate at XJTLU."
   location         : "Earth"
-  employer         : "[Department of Architecture, Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/study/departments/design-school/architecture)"
+  employer         : #"[Department of Architecture, Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/study/departments/design-school/architecture)"
   uri              : # URL
   email            : "Yutian.yi24@student.xjtlu.edu.cn" 
 
