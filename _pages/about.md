@@ -14,7 +14,7 @@ My name is Yutian Yi, and I am a Year 2 PhD researcher at Department of Architec
 I received my Bachelor’s degree from Soochow University (SUDA) in 2024. During my undergraduate study, I developed a strong interest in digital methods for the built environment and in research that connects technical innovation with practical industry needs.
 
 
-## Academic Services
+## Research Interests
 My PhD research focuses on blockchain-enabled digital twins for building lifecycle management, with particular emphasis on the handover transition from construction to post-construction operations. In many projects, handover information is fragmented across multiple stakeholders, delivered in inconsistent formats, and difficult to verify, which increases coordination costs and delays operational readiness. I investigate how digital twins and blockchain can be integrated to strengthen trust, governance, and data continuity. The digital twin provides an evolving representation of building assets and operational state, while blockchain provides tamper-evident provenance for key deliverables and decisions—such as as-built updates, commissioning evidence, approvals, and responsibility transfers. Using a mixed-methods approach, I develop and evaluate prototype workflows and validation mechanisms that support a verifiable “digital thread,” enabling more reliable handover and more effective operation and maintenance.
 I am very open to other topics, so feel free to reach out if you’d like to collaborate or chat!
 
