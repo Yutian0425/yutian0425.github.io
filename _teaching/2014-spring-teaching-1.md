@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "XJTLU, Department of Architecture"
-date: 2025-03~ 2025-05
+date: 2025-03
 location: "Suzhou, China"
 ---
 
