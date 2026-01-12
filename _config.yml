@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yutian Yi"
 title_separator          : "-"
 name                     : &name "Yutian Yi 易予恬"
-description              : &description "Hi, I am a Year 2 PhD candidate from Xi'an Jiaotong-Liverpool University!"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "PhD Candidate — blockchain-enabled digital twins for building lifecycle management (handover-focused)."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yutian0425.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "yutian0425/yutian0425.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1.jpg"
+  avatar           : "images/1.jpg"
   name             : "Yutian Yi"
   pronouns         : # example: "she/her"  
   bio              : "Year 2 Ph.D candudate at XJTLU."
-  location         : "Earth"
+  location         : "Suzhou, China"
   employer         : #"[Department of Architecture, Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/study/departments/design-school/architecture)"
   uri              : # URL
   email            : "Yutian.yi24@student.xjtlu.edu.cn" 
